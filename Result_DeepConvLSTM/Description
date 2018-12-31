@@ -1,0 +1,20 @@
+The number in the x axis represents each datasets and they are
+1.AutomaticExtraction_seq0
+2.AutomaticExtraction_seq1
+3.ManualExtractionData_Center_Walk_1
+4.ManualExtractionData_Center_Walk_2
+5.ManualExtractionData_Center_SlopeDown
+6.ManualExtractionData_Center_SlopeUp
+7.ManualExtractionData_Right_Walk_1
+8.ManualExtractionData_Right_Walk_2
+9.ManualExtractionData_Right_SlopeDown
+10.ManualExtractionData_Right_SlopeUp
+11.ManualExtractionData_Left_Walk_1
+12.ManualExtractionData_Left_Walk_2
+13.ManualExtractionData_Left_SlopeDown
+14.ManualExtractionData_Left_SlopeUp
+15.ManualExtractionData_Android_Walk_1
+16.ManualExtractionData_Android_Walk_2
+17.ManualExtractionData_Android_SlopeDown
+18.ManualExtractionData_Android_SlopeUp
+
