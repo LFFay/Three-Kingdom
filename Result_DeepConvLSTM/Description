@@ -1,4 +1,6 @@
-The number in the x axis represents each datasets and they are
+The result shows the accuracy on each dataset.
+The accuracy is in y-axis
+The number in the x-axis represents each datasets and they are
 1.AutomaticExtraction_seq0
 2.AutomaticExtraction_seq1
 3.ManualExtractionData_Center_Walk_1
