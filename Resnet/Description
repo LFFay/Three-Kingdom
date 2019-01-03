@@ -1,0 +1,2 @@
+Use keras version 2.1.5 or lower.
+Due to the input shape, we could not apply average pooling befere we flatten to output layer.
